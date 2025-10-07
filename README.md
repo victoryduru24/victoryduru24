@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @victoryduru24
-- 👀 I’m interested in building websites and exploring the tech world 
-- 🌱 I’m currently learning ...web development 
+- 👋 Hi, I’m Chizzy Duru
+- 👀 I  explor the tech world and build products that scale, align, and solve the right problems. 
+- 🌱 I’m a Frontend Developer and aspiring Full-Stack Developer passionate about building products that scale, solve the right problems, and deliver exceptional user experiences.
 - 💞️ I’m looking to collaborate on ...intresting deals and innovative partnership
 - 📫 How to reach me ...victoryduru04@gmail.com
 - 😄 Pronouns: ...
